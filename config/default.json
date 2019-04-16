@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:today123@cluster0.lludt.mongodb.net/chadsoft?retryWrites=true&w=majority",
+  "jwtSecret": "chad project api server"
+}
